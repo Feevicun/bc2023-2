@@ -1,4 +1,4 @@
 http://backend.course#Feevicun
-http://backend.course?name=%22Viktoria%20Osoba%22&github_name=Feevicun&group=%22%D0%A4EI23c%22&%0Asubgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+http://backend.course?name=%E2%80%9DViktoria%20Osoba%E2%80%9D&github_name=Feevicun&group=%E2%80%9D%D0%A4%D0%95%D0%86-23%E2%80%9D&subgroup=%E2%80%9D%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%E2%80%9D
 https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=201905&json
 
